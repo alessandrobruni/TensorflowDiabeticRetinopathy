@@ -1,4 +1,4 @@
-<img src="stuff/lockup.svg"  width="300" height="60" />
+<img src="stuff/TF.png"  width="300" height="60" />
 
 # Tensorflow Computer Vision 
 # Diabetic Retinopathy Arranged
@@ -6,7 +6,7 @@
 
 Thanks to   
 
-[Lorence Moroney](https://github.com/https-deeplearning-ai/tensorflow-1-public)
+[Lorence Moroney](https://github.com/https-deeplearning-ai/tensorflow-1-public)  
 [mrdbourke](https://github.com/mrdbourke/tensorflow-deep-learning)  
 
 
