@@ -22,6 +22,6 @@ The original datset came with images divided in 5 folder (0,1,2,3,4), each of th
 3 - Severe - **Diabetic Retina Severe** : there are 873 images
 4 - Proliferative DR - **Diabetic Retina Proliferative** : there are 708 images
 
-<img src="stuff/retina1.png"  width="300" height="60" />
+<img src="stuff/retina1.png"  width="300" height="auto" />
 
 This 2 Notebooks provides a complete set of code to train and leverage own custom computer vision using the Tensorflow API. 
