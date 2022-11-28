@@ -10,7 +10,7 @@ Thanks to
 [mrdbourke](https://github.com/mrdbourke/tensorflow-deep-learning)  
 
 
-Diabetic Retinopathy Arranged
+Diabetic Retinopathy Arranged  
 Computer vision is the practice of writing algorithms which can discover patterns in visual data. 
 
 In this work a **Convolutional Neural Network** (CNN) will classify the images from Kaggle dataset [Diabetic Retinopathy Arranged](https://www.kaggle.com/datasets/amanneo/diabetic-retinopathy-resized-arranged?select=0)  
