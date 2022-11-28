@@ -25,7 +25,9 @@ The original datset came with images divided in 5 folder (0,1,2,3,4), each of th
 <img src="stuff/retina1.png"  width="500" height="auto" />
 
 This 2 Notebooks provides a complete set of code to train and **predict** sane retina from diabetic retina  using   
-the Tensorflow API applied on CNN.  
+the Tensorflow API applied on building CNN.  
 
+
+Below a sample retina image processed by a CNN of **1,6mln** of neurons in a less than a blink of an eye.  
 <img src="stuff/retina2.png"  width="900" height="auto" />
 
