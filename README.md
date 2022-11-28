@@ -28,7 +28,7 @@ This 2 Notebooks provides a complete set of code to train and **predict** sane r
 the Tensorflow API applied on building CNN.  
 
 
-Below a sample retina image processed by a CNN of **1,6mln** of neurons in a less than a blink of an eye.  
+Below a sample of retina image processed by **1,6mln** CNN's neurons in a less than a blink of an eye.  
 <br>
 <br>
 <img src="stuff/retina2.png"  width="900" height="auto" />
